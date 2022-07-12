@@ -1,4 +1,4 @@
-# RunCPM_Windows
+# RunCPM_Windows - a CPM-Emulator for the Windows-Text-Shell/-Console
 RunCPM for Windows 32bit (XP and up ) and 64Bit 
 pre-compiled with TDM-GCC-32 or TDM-GCC-64
 
