@@ -12,5 +12,5 @@ RunCPM for Windows 32bit (XP and up ) and 64Bit
 ## RunCPM 64bit<br/>
 ![RunCPM_Win64_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPM_Win_64bit_Test_20220628.jpg?raw=true)
 
-## Wordstar 4.0 CP/M-Version running inside of RunCPM 32bit
+## Wordstar 4.0 CP/M-Edition running inside of RunCPM 32bit
 ![RunCPM_Worstar_Screen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPM_Win_WS_GL20220628.jpg?raw=true)
