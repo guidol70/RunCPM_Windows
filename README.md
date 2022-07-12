@@ -7,6 +7,10 @@ RunCPM for Windows 32bit (XP and up ) and 64Bit
 <br/>pre-compiled with TDM-GCC-32 or TDM-GCC-64 in v10.3.0
 <br/><br/>TDM-GCC is available at https://jmeubank.github.io/tdm-gcc/
 
+cmder (cmder-mini) is available at https://cmder.net/
+<br/>actual mini v1.3.19 is at
+<br/>https://github.com/cmderdev/cmder/releases/download/v1.3.19/cmder_mini.zip
+
 ## RunCPM 32bit<br/>
 ![RunCPM_Win_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPM_Win_GL20220628.jpg?raw=true)
 
