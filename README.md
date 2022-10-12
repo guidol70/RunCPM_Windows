@@ -4,8 +4,8 @@ a fork/compile for the Windows-Console/-Shell
 Original by Marcelo Dantas at https://github.com/MockbaTheBorg/RunCPM
 
 RunCPM for Windows 32bit (XP and up ) and 64Bit 
-<br/>pre-compiled with TDM-GCC-32 or TDM-GCC-64 in v10.3.0
-<br/><br/>TDM-GCC is available at https://jmeubank.github.io/tdm-gcc/
+<br/>pre-compiled (since V6.0) with WinLibs MinGW GCC 12.2.0 LLVM MSVCRT
+<br/><br/>WinLibs MinGW GCC is available at https://github.com/brechtsanders/winlibs_mingw/releases/
 
 cmder (cmder-mini) is available at https://cmder.net/
 <br/>actual mini v1.3.19 is at
