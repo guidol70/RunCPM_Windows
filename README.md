@@ -10,9 +10,9 @@ RunCPM for Windows 32bit (XP and up ) and 64Bit
 <br>
 or https://github.com/brechtsanders/winlibs_mingw/releases/
 
-cmder (cmder-mini) is available at https://cmder.net/
-<br/>actual mini v1.3.19 is at
-<br/>https://github.com/cmderdev/cmder/releases/download/v1.3.19/cmder_mini.zip
+cmder (cmder-mini) is available at https://cmder.app/
+<br/>actual mini v1.3.21 is at
+<br/>https://github.com/cmderdev/cmder/releases/download/v1.3.21/cmder_mini.zip
 
 ## RunCPM 32bit<br/>
 ![RunCPM_Win_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPM_Win_32Bit_09062023.jpg?raw=true)
