@@ -1,4 +1,5 @@
-# RunCPM for Windows - a text-based CP/M-Emulator 
+# RunCPM for Windows 32Bit & 64Bit
+## a text-based CP/M-Emulator
 a fork/compile for the Windows-Console/-Shell
 
 Original by Marcelo Dantas at https://github.com/MockbaTheBorg/RunCPM
