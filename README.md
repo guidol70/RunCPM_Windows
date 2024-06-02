@@ -13,7 +13,7 @@ or https://github.com/brechtsanders/winlibs_mingw/releases/
 <br/>There is no UCRT Support in/for Windows XP :(
 <br/>Windows XP did use MSVCRT
 
-UCRT Support for Windows Vista SP2 / Windiws 7 / Windows 8(.1)
+UCRT Support for Windows Vista SP2 / Windows 7 / Windows 8(.1)
 <br/>(from Windows 10 up UCRT-Support is automatically included)
 <br/>is available at
 <br/>https://support.microsoft.com/en-gb/topic/update-for-universal-c-runtime-in-windows-c0514201-7fe6-95a3-b0a5-287930f3560c
