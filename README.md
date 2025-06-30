@@ -5,8 +5,7 @@ a fork/compile for the Windows-Console/-Shell
 Original by Marcelo Dantas at https://github.com/MockbaTheBorg/RunCPM
 
 RunCPM for Windows 32bit (XP and up ) and 64Bit 
-<br/>pre-compiled with WinLibs MinGW GCC 14.1.0 LLVM MSVCRT
-<br/>(GCC 14.1.0 + LLVM 18.1.5 + MinGW64 11.0.1 MSVCRT)
+<br/>pre-compiled with WinLibs MinGW GCC 15.1.0r2 LLVM MSVCRT
 <br/><br/>WinLibs MinGW GCC is available at https://winlibs.com/
 <br>
 or https://github.com/brechtsanders/winlibs_mingw/releases/
