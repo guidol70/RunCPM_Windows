@@ -22,3 +22,9 @@ cmder (cmder-mini) is available at https://cmder.app/
 
 ## Wordstar 4.0 CP/M-Edition running inside of RunCPM 64bit
 ![RunCPM_Worstar_Screen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPM_Win_WS_GL20251123.jpg?raw=true)
+
+## RunCPM in RunVT All_in_1 32bit<br/>
+![RunCPM_Win_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPMVT_Win32_static.jpg?raw=true)
+
+## RunCPM in RunVT All_in_1 64bit<br/>
+![RunCPM_Win64_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPMVT_Win32_static.jpg?raw=true)
