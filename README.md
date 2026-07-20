@@ -24,7 +24,7 @@ cmder (cmder-mini) is available at https://cmder.app/
 ![RunCPM_Worstar_Screen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPM_Win_WS_GL20251123.jpg?raw=true)
 
 ## RunCPM in RunVT All_in_1 32bit<br/>
-![RunCPM_Win_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPMVT_Win32_static.jpg?raw=true)
+![RunCPM_Win_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPMVT32_Static.jpg?raw=true)
 
 ## RunCPM in RunVT All_in_1 64bit<br/>
-![RunCPM_Win64_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPMVT_Win32_static.jpg?raw=true)
+![RunCPM_Win64_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPMVT64_Static.jpg?raw=true)
