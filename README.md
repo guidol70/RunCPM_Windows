@@ -28,3 +28,8 @@ cmder (cmder-mini) is available at https://cmder.app/
 
 ## RunCPM in RunVT All_in_1 64bit<br/>
 ![RunCPM_Win64_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPMVT64_Static.jpg?raw=true)
+
+## RunCPM in RunVT All_in_1 64bit with IBM VGA 8x16 Font<br/>
+![RunCPM_Win64_BootScreen](https://github.com/guidol70/RunCPM_Windows/raw/main/pictures/RunCPMVT_v6_9_IBM_VGA_8x16.jpg?raw=true)
+
+
